@@ -68,7 +68,7 @@ npm install
 npm start
 ```
 
-The application will be available at `http://localhost:3000`.
+The application will be available at `https://bhanukaushik.github.io/TodoApp/`.
 
 ## Usage
 
